@@ -1,0 +1,11 @@
+# PowerShell logs
+*.log
+
+# Windows thumbnails
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Test folders
+/TestArea/
